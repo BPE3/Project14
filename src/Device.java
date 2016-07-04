@@ -1,5 +1,5 @@
 /**
- * Created by Петя on 29.06.2016.
+ * Created by Петя on 29.06.2016. fffffffffffffffffffffffffffffffffffffffff
  */
 public class Device {
     private String manufacturer;
